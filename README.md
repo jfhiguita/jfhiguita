@@ -2,7 +2,7 @@
 # Hi, I'm John 👋🏾‍💻
 
 
-I'm a Data Scientist who is passionate about extraction, cleaning and data analysis, pattern reference. Some technologies I enjoy working with include Python, Machine learning, Tableau.
+I'm a Data Scientist passionate and a Finance professional. I enjoy researching pattern reference, extraction, cleaning and data analysis. Some technologies I enjoy working with include Python, Machine learning, Tableau.
 
 
 ## Find me around the web 🌎: 
