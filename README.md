@@ -2,7 +2,7 @@
 # Hi, I'm John 👋🏾‍💻
 
 
-I'm a Data Scientist passionate and a Finance professional. I enjoy researching pattern reference, extraction, cleaning and data analysis. Some technologies I enjoy working with include Python, Machine learning, Tableau.
+I'm a Python Developer passionate and a Finance professional. I enjoy develop API, Database, extract data. Some technologies I enjoy working with include Python, Machine learning, Tableau, FastAPI, Django, Git, Docker, Flask.
 
 
 ## Find me around the web 🌎: 
